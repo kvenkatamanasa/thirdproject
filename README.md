@@ -140,14 +140,6 @@ Later, the page was successfully loaded again:
 
 HTTP status code **200** indicates that the request was successful.
 
-## 🖼️ Output
-
-The browser output screenshot is included in this repository as:
-
-`output.png`
-
-![Django Project Output](output.png)
-
 ## 🗄️ Database Migrations
 
 Django reported:
